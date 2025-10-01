@@ -4,6 +4,8 @@ const app = express();
 
 const token = 'hfeqgfqjasfgahkfghafghadgfhafduehfueuweotuoweytoweyrtouwrutwurytoywrtyworytoiwruyio';
 
+const password = 'test123';
+
 app.use(express.static('public'));
 
 const PORT = process.env.PORT || 8080
