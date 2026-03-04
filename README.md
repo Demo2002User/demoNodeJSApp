@@ -1,2 +1,3 @@
 # NodeJSTemplate
-NodeJS Application Template
+
+NodeJS Application Template used for NodeJS 
